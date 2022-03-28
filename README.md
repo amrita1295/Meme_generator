@@ -42,7 +42,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ** Deployed project using Netlify through continuous deployment from GitHub repository's main branch, while securely entering the environment variables.
 
 # Page Routes
-*Home Page: / - homepage where all memes are fetched using the GET request on https://api.imgflip.com/get_memes
-*Edit Meme Page: /:id/:text_boxes - dynamically rendered url for any meme to be created. text_boxes param is used to dynamically render the number of text fields required for a particular meme. On submission of the form POST request on https://api.imgflip.com/caption_image returns the meme desired with the changes applied.
+* Home Page: / - homepage where all memes are fetched using the GET request on https://api.imgflip.com/get_memes
+* Edit Meme Page: /:id/:text_boxes - dynamically rendered url for any meme to be created. text_boxes param is used to dynamically render the number of text fields required for a particular meme. On submission of the form POST request on https://api.imgflip.com/caption_image returns the meme desired with the changes applied.
 
 ## Screenshots
