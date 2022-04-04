@@ -54,4 +54,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![Screenshot (15)](https://user-images.githubusercontent.com/56605853/160450400-8922085a-40e4-4c85-957b-62dd05b06afc.png)
 
 ## Presentation 
-[Meme Generator.pptx](https://github.com/amrita1295/Meme_generator/files/8411995/Meme.Generator.pptx)
+[Meme Generator.pptx](https://github.com/amrita1295/Meme_generator/files/8412057/Meme.Generator.pptx)
+
