@@ -7,7 +7,10 @@ function HomePage(){
     const [page,setPage]=useState(0);
     const [fade, setFade]=useState('top');
     async function getMemes(){
+        
+    //used axios
         const response=await axios.get("https://api.imgflip.com/get_memes");
+        // setMemes(response.data.memes);
         setMemes(response.data.data.memes);
     }
     
