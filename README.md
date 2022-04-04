@@ -1,4 +1,5 @@
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -51,3 +52,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![Screenshot (13)](https://user-images.githubusercontent.com/56605853/160450391-07d902fa-b5b1-4b32-b3f0-d6d29302aba0.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/56605853/160450397-04d434a9-d538-4c0c-9cd3-0123189465b8.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/56605853/160450400-8922085a-40e4-4c85-957b-62dd05b06afc.png)
+[Meme Generator.pptx](https://github.com/amrita1295/Meme_generator/files/8411995/Meme.Generator.pptx)
